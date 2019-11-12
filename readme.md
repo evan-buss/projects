@@ -50,6 +50,10 @@ A cross-platform mobile app implementation of my previous Book-Keeper Vue.js sin
 
 # Miscellaneous
 
+## [NetScanner](https://github.com/evan-buss/netscanner)
+
+A simple CLI to scan computers for open ports. Scan a single computer on all ports or scan all computers on a network for a specific open port. Fast and multithreaded.
+
 ## [Go-Serve](https://github.com/evan-buss/go-serve)
 
 A local file server written in Golang. Allows you to share files and folders across different computers on a local network. Unlike traditional file server CLIs, it allows folders to be downloaded by compressing them into *.zip file.
@@ -74,12 +78,14 @@ A custom download server and client CLI written in Java. Makes use of TCP socket
 
 A basic implementation of the HTTP protocol in Java. Written without the use of the Java HTTP package. Simply uses TCP sockets. All data parsing and routing is custom. Written as a way to further understand how higher-level HTTP servers work behind the scenes.
 
+# In Progress
+
+## Movie Streaming Application
+
+Privately stream a movie with friends with a real-time chat.
+
 # Future Project Ideas
 
 ## Podcast App / Website
 
 My favorite podcast application PocketCasts recently changed their payment model from a one-time fee to monthly subscriptions. I am really not happy with it. My ideal podcast application would enable users to listen on both desktop and mobile. Podcast progress should be synced between devices. I am leaning towards a self-hosted data solution where users store their individual data in an SQLite database within their Google Drive or other cloud provider account. Mobile app in Flutter or React native. Backend services written in Java or Golang.
-
-## Movie Streaming Application
-
-Privately stream a movie with friends with a real-time chat.
