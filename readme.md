@@ -86,6 +86,10 @@ Privately stream a movie with friends with a real-time chat.
 
 # Future Project Ideas
 
+## A Buddy Finding Service For Streaming Subscriptions
+
+Users create accounts and get matched with other users that have different services to trade. The only way to win is to team together.
+
 ## Podcast App / Website
 
 My favorite podcast application PocketCasts recently changed their payment model from a one-time fee to monthly subscriptions. I am really not happy with it. My ideal podcast application would enable users to listen on both desktop and mobile. Podcast progress should be synced between devices. I am leaning towards a self-hosted data solution where users store their individual data in an SQLite database within their Google Drive or other cloud provider account. Mobile app in Flutter or React native. Backend services written in Java or Golang.
