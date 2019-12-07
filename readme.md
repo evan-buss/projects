@@ -86,6 +86,9 @@ Privately stream a movie with friends with a real-time chat.
 
 # Future Project Ideas
 
+## A simple type racing clone. Takes comments from reddit.
+Use websockets to have a live typing race with others.
+
 ## A Buddy Finding Service For Streaming Subscriptions
 
 Users create accounts and get matched with other users that have different services to trade. The only way to win is to team together.
