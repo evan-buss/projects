@@ -86,6 +86,10 @@ Privately stream a movie with friends with a real-time chat.
 
 # Future Project Ideas
 
+## Trello Desktop Widget for Windows 10
+
+Similar to the Sticky Notes app, I want to view certain trello lists or boards on the desktop. Simple things like To-do lists. I am thinking of making it with C# but if I want cross platform I'll have to use something like GTK or QT.
+
 ## A simple type racing clone. Takes comments from reddit.
 Use websockets to have a live typing race with others.
 
