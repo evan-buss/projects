@@ -100,3 +100,27 @@ Users create accounts and get matched with other users that have different servi
 ## Podcast App / Website
 
 My favorite podcast application PocketCasts recently changed their payment model from a one-time fee to monthly subscriptions. I am really not happy with it. My ideal podcast application would enable users to listen on both desktop and mobile. Podcast progress should be synced between devices. I am leaning towards a self-hosted data solution where users store their individual data in an SQLite database within their Google Drive or other cloud provider account. Mobile app in Flutter or React native. Backend services written in Java or Golang.
+
+## Web based download manager
+
+Hosted on a local media server. Quickly add links to be downloaded in the background.
+- Started development at [download-manager](https://github.com/evan-buss/download-manager)
+
+## Goodreads alternative
+
+Like goodreads but with less useless features.
+  - Books
+    - Public Ratings (stars)
+    - Private notes (there are no public reviews?)
+    - Reading status
+    - Shelves
+  - Because it would be too much data to import everything from goodreads, when a user first looks up a book that isn't there, it will parse / scrape from another website
+    - This will slowly build up a book collection
+    
+## Indeed Jobs Dashboard
+
+Web app dashboard that shows job statistics for various languages / technologies
+ - Total in United States
+ - Total per state
+ - Simple graph comparions
+ - Maybe a change over time graph?
