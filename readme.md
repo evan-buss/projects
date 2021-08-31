@@ -124,3 +124,8 @@ Web app dashboard that shows job statistics for various languages / technologies
  - Total per state
  - Simple graph comparions
  - Maybe a change over time graph?
+
+## YARP Docker Proxy
+
+- Integrate the Docker socket API with [YARP](https://github.com/microsoft/reverse-proxy)
+- Similar to how Traefik autodetects services via labels, this would do the same
