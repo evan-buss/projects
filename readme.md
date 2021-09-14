@@ -129,3 +129,16 @@ Web app dashboard that shows job statistics for various languages / technologies
 
 - Integrate the Docker socket API with [YARP](https://github.com/microsoft/reverse-proxy)
 - Similar to how Traefik autodetects services via labels, this would do the same
+
+## LeetCode Spaced Repetition Extension
+
+- Browser extension to prompt users to practice specific LeetCode problems on 
+  an optimized schedule using spaced repetition.
+
+- Features:
+  - Recognize the problem from the user's current page
+  - Use Notifications api to prompt users on the day they should practice again
+  - Show history
+  - Hide or clear completed problem text in code editor when they are practing
+    a previously completed problem.
+  - Store data either locally or create a web service.
