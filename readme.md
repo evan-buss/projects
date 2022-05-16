@@ -125,10 +125,19 @@ Web app dashboard that shows job statistics for various languages / technologies
  - Simple graph comparions
  - Maybe a change over time graph?
 
-## YARP Docker Proxy
+## [YARP](https://github.com/microsoft/reverse-proxy) Extensions for custom proxies
+- Configuration providers NuGet packages that provide configuration extensions.
 
-- Integrate the Docker socket API with [YARP](https://github.com/microsoft/reverse-proxy)
+### Automatic docker configuration
+- Integrate the Docker socket API with 
 - Similar to how Traefik autodetects services via labels, this would do the same
+
+### Web interface confgiuration
+- Simple UI to configure the YARP settings manually.
+
+## Video Clip Concatenation Desktop App
+- Allow opening a folder of video clips and combining them
+- Good for dashcams and other video cameras that only collect small video clips.
 
 ## LeetCode Spaced Repetition Extension
 
